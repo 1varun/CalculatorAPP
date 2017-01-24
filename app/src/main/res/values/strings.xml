@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator by Varun</string>
+    <string name="title">Simple Calculator</string>
+    <string name="answer_logo">ANSWER</string>
+    <string name="credits">Credits</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="initial_answer">0.0</string>
+    <string name="created_by">Created By:</string>
+    <string name="credits_name">Varun Prasad</string>
+    <string name="credits_clg">EIE, Jadavpur University</string>
+    <string name="credits_email">Email: varun_prasad@outlook.com</string>
+    <string name="back">BACK</string>
+    <string name="credits_button">Credits</string>
+    <string name="version">Version 1.01</string>
+</resources>
